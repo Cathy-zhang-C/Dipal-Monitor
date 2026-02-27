@@ -1,0 +1,8 @@
+venv/
+*.pyc
+__pycache__/
+data/
+sa_key.json
+GOOGLE_SA.json
+report.json
+summary.txt
