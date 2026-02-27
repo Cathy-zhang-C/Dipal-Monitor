@@ -1,0 +1,13 @@
+requests
+pandas
+numpy
+gspread
+google-auth
+google-auth-oauthlib
+oauth2client
+google-api-python-client
+snscrape
+instaloader
+vaderSentiment
+pyyaml
+python-dotenv
