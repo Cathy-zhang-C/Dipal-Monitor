@@ -1,0 +1,25 @@
+google_sheet_id: "YOUR_GOOGLE_SHEET_ID"
+platforms:
+  youtube:
+    channels:
+      - dipal_official
+  instagram:
+    profiles:
+      - dipal_offical
+      - dipal.tech
+  tiktok:
+    profiles:
+      - dipal_official
+  x:
+    profiles:
+      - dipal_official
+  discord:
+    channel_id: "1326374486144188417"
+targets:
+  webhook_url: "${WEBHOOK_URL}"
+  email:
+    to: "you@example.com"
+anomaly:
+  zscore_threshold: 3.0
+  follower_abs_threshold: 500
+  sentiment_drop_pct: 30
